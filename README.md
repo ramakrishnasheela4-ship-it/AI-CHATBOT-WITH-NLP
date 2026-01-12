@@ -21,3 +21,5 @@ An AI Chatbot with Natural Language Processing (NLP) is an intelligent software 
 The core function of an AI chatbot lies in NLP, which enables the system to process human language in a meaningful way. NLP involves several stages such as text preprocessing, tokenization, part-of-speech tagging, named entity recognition, intent detection, and sentiment analysis. When a user sends a message, the chatbot analyzes the input to identify the user’s intent and extract relevant information. Based on this understanding, it selects or generates an appropriate response.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/debe6434-5393-4cb6-a8c8-17d2245501b5)
